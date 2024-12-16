@@ -18,7 +18,10 @@ RED-HUSKY is a template build using the following tech:
 
 ## Starting the application
 ```sh
-git clone 
+git clone https://github.com/MBeggiato/RED-HUSKY.git
+pnpm install
+pnpm database
+pnpm dev
 ```
 
 ## Database
